@@ -1,4 +1,5 @@
 # Walmart Sales Data Analysis 
+<img src="https://academy.education.investing.com/wp-content/uploads/2022/10/walmart.jpg" height="500" width="1000">
 
 ## About
 
