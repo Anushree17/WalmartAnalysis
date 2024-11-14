@@ -48,6 +48,9 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 3. Customer Analysis
 
 > This analysis aims to uncover the different customers segments, purchase trends and the profitability of each customer segment.
+>
+> <h2>Data Vizualization</h2>
+<p></p>
 
 ## Approach Used
 
@@ -143,9 +146,6 @@ $ total = VAT + COGS\\= 16.0265 + 320.53 = $336.5565$
 
 $ \text{Gross Margin Percentage} = \frac{\text{gross income}}{\text{total revenue}}\\=\frac{16.0265}{336.5565} = 0.047619\\\approx 4.7619\% $
 
-## Code
-
-For the rest of the code, check the [SQL_queries.sql](https://github.com/Princekrampah/WalmartSalesAnalysis/blob/master/SQL_queries.sql) file
 
 ```sql
 -- Create database
